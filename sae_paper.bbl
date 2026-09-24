@@ -1,0 +1,74 @@
+\begin{thebibliography}{10}
+
+\bibitem{laurendeau2022summary}
+E.~Laurendeau, S.~Bourgault-Cote, I.~A. Ozcer, R.~Hann, E.~Radenac, and A.~Pueyo, ``Summary from the 1st aiaa ice prediction workshop,'' in {\em AIAA Aviation 2022 Forum}, p.~3398, American Institute of Aeronautics and Astronautics (AIAA), June 2022.
+
+\bibitem{laurendeau2024summary}
+E.~Laurendeau, M.~Blanchet, M.~K. Zayni, R.~Hann, E.~Radenac, I.~Mussa, and A.~Pueyo, ``Summary from the 2nd aiaa ice prediction workshop,'' in {\em AIAA AVIATION FORUM AND ASCEND 2024}, American Institute of Aeronautics and Astronautics, July 2024.
+
+\bibitem{pointwiseHLPW5}
+R.~Djeddi, M.~Malone, S.~Afari, E.~Gantt, C.~Pita, and C.~Woeber, {\em HLPW5: Summary of Unstructured Mesh Generation Efforts for Fixed-Grid RANS Analyses}.
+
+\bibitem{broeren2013aerodynamic}
+A.~Broeren, J.~Diebold, and M.~Bragg, ``Aerodynamic classification of swept-wing ice accretion,'' tech. rep., 2013.
+
+\bibitem{arquis1984conditions}
+E.~Arquis, J.-P. Caltagirone, {\em et~al.}, ``Sur les conditions hydrodynamiques au voisinage d’une interface milieu fluide-milieu poreux: applicationa la convection naturelle,'' {\em CR Acad. Sci. Paris II}, vol.~299, no.~1, 1984.
+
+\bibitem{lavoieEuler}
+``An improved characteristic based volume penalization method for the euler equations towards icing applications,'' {\em Computers \& Fluids}, vol.~222, p.~104917, 2021.
+
+\bibitem{lavoieDroplets}
+P.~Lavoie, E.~Radenac, G.~Blanchard, E.~Laurendeau, and P.~Villedieu, ``Penalization method for eulerian droplet impingement simulations toward icing applications,'' {\em AIAA Journal}, vol.~60, no.~2, pp.~641--653, 2022.
+
+\bibitem{pabloIcing}
+P.~Elices~Paz, E.~Radenac, G.~Blanchard, S.~P\'{e}ron, E.~Laurendeau, and P.~Villedieu, ``Immersed boundary methodology for three-dimensional multistep ice accretion simulations,'' {\em Journal of Aircraft}.
+
+\bibitem{capiGC}
+F.~Capizzano, ``Turbulent wall model for immersed boundary methods,'' {\em AIAA Journal}, vol.~49, no.~11, pp.~2367--2381, 2011.
+
+\bibitem{capi2022}
+F.~Capizzano, P.~Catalano, A.~Carozza, D.~Cinquegrana, and F.~Petrosino, ``Cira contribution to the first aiaa ice prediction workshop,''
+
+\bibitem{capi2025}
+F.~Capizzano, ``Results from the second ice prediction workshop by using the cira cartesian method,'' {\em Journal of Aircraft}, vol.~62, no.~6, pp.~1782--1794, 2025.
+
+\bibitem{schneider2002geometric}
+P.~Schneider and D.~H. Eberly, {\em Geometric tools for computer graphics}.
+\newblock Elsevier, 2002.
+
+\bibitem{kOmegaMenter}
+F.~R. Menter, ``Two-equation eddy-viscosity turbulence models for engineering applications,'' {\em AIAA Journal}, vol.~32, no.~8, pp.~1598--1605, 1994.
+
+\bibitem{CONSTANT2021110240}
+B.~Constant, S.~Péron, H.~Beaugendre, and C.~Benoit, ``An improved immersed boundary method for turbulent flow simulations on cartesian grids,'' {\em Journal of Computational Physics}, vol.~435, p.~110240, 2021.
+
+\bibitem{guardoneReview}
+A.~Guardone, T.~Bellosta, A.~Donizetti, and M.~Gallia, ``Aircraft icing: Modeling and simulation,'' {\em Annual Review of Fluid Mechanics}, vol.~58, no.~Volume 58, 2026, pp.~139--165, 2026.
+
+\bibitem{rendall2014finite}
+T.~Rendall and C.~Allen, ``Finite-volume droplet trajectories for icing simulation,'' {\em International Journal of Multiphase Flow}, vol.~58, p.~185–194, Jan. 2014.
+
+\bibitem{clift2005bubbles}
+R.~Clift, J.~R. Grace, and M.~E. Weber, {\em Bubbles, drops, and particles}, p.~157–190.
+\newblock WORLD SCIENTIFIC, Apr. 2006.
+
+\bibitem{wright2004semi}
+W.~Wright and M.~Potapczuk, ``Semi-empirical modelling of sld physics,'' in {\em 42nd AIAA Aerospace Sciences Meeting and Exhibit}, American Institute of Aeronautics and Astronautics, Jan. 2004.
+
+\bibitem{Zhu_2014}
+C.~X. Zhu, C.~L. Zhu, and B.~Fu, ``3d ice accretion simulation for complex configuration basing on improved messinger model,'' {\em Advanced Materials Research}, vol.~1025–1026, p.~148–155, Sept. 2014.
+
+\bibitem{OSHER198812}
+S.~Osher and J.~A. Sethian, ``Fronts propagating with curvature-dependent speed: Algorithms based on hamilton-jacobi formulations,'' {\em Journal of Computational Physics}, vol.~79, no.~1, pp.~12--49, 1988.
+
+\bibitem{DAPOGNY2014358}
+C.~Dapogny, C.~Dobrzynski, and P.~Frey, ``Three-dimensional adaptive domain remeshing, implicit domain meshing, and applications to free and moving boundary problems,'' {\em Journal of Computational Physics}, vol.~262, pp.~358--378, 2014.
+
+\bibitem{papadakism2004water}
+M.~Papadakis, A.~Rachman, S.-C. Wong, H.-W. Yeong, K.~Hung, and C.~Bidwell, ``Water {{Impingement Experiments}} on a {{NACA}} 23012 {{Airfoil}} with {{Simulated Glaze Ice Shapes}},'' in {\em 42nd {{AIAA Aerospace Sciences Meeting}} and {{Exhibit}}}, ({Reno, Nevada}), {American Institute of Aeronautics and Astronautics}, Jan. 2004.
+
+\bibitem{trontin}
+P.~Trontin, A.~Kontogiannis, G.~Blanchard, and P.~Villedieu, ``Description and assessment of the new onera 2d icing suite igloo2d,'' 06 2017.
+
+\end{thebibliography}
