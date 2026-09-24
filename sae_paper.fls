@@ -2,7 +2,7 @@ PWD /Users/mkzayni/Desktop/SAE_IBM_PAPER/SAE_IBM_PAPER
 INPUT /usr/local/texlive/2025/texmf.cnf
 INPUT /usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT sae_paper.tex
+INPUT /Users/mkzayni/Desktop/SAE_IBM_PAPER/SAE_IBM_PAPER/sae_paper.tex
 OUTPUT sae_paper.log
 INPUT ./sae.cls
 INPUT sae.cls
@@ -333,8 +333,6 @@ INPUT ./icingFramework.eps
 INPUT ./icingFramework-eps-converted-to.pdf
 INPUT ./icingFramework-eps-converted-to.pdf
 INPUT ./icingFramework-eps-converted-to.pdf
-INPUT ./icingFramework-eps-converted-to.pdf
-INPUT ./icingFramework-eps-converted-to.pdf
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmbi7t.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
@@ -361,10 +359,10 @@ INPUT /usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
-INPUT /usr/local/texlive/2025/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
-INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/vf/adobe/times/ptmr8c.vf
@@ -385,8 +383,6 @@ INPUT ./CYLINDER_BF.eps
 INPUT ./CYLINDER_BF-eps-converted-to.pdf
 INPUT ./CYLINDER_BF-eps-converted-to.pdf
 INPUT ./CYLINDER_BF-eps-converted-to.pdf
-INPUT ./CYLINDER_BF-eps-converted-to.pdf
-INPUT ./CYLINDER_BF-eps-converted-to.pdf
 INPUT ./CYLINDER_IBM.eps
 INPUT ./CYLINDER_IBM.eps
 INPUT ./CYLINDER_IBM.eps
@@ -395,8 +391,6 @@ INPUT ./CYLINDER_IBM.eps
 INPUT ./CYLINDER_IBM-eps-converted-to.pdf
 INPUT ./CYLINDER_IBM-eps-converted-to.pdf
 INPUT ./CYLINDER_IBM.eps
-INPUT ./CYLINDER_IBM-eps-converted-to.pdf
-INPUT ./CYLINDER_IBM-eps-converted-to.pdf
 INPUT ./CYLINDER_IBM-eps-converted-to.pdf
 INPUT ./CYLINDER_IBM-eps-converted-to.pdf
 INPUT ./CYLINDER_IBM-eps-converted-to.pdf
@@ -416,8 +410,6 @@ INPUT ./CASE_SLD_EULERIAN_BETA.eps
 INPUT ./CASE_SLD_EULERIAN_BETA-eps-converted-to.pdf
 INPUT ./CASE_SLD_EULERIAN_BETA-eps-converted-to.pdf
 INPUT ./CASE_SLD_EULERIAN_BETA-eps-converted-to.pdf
-INPUT ./CASE_SLD_EULERIAN_BETA-eps-converted-to.pdf
-INPUT ./CASE_SLD_EULERIAN_BETA-eps-converted-to.pdf
 INPUT ./CASE_SLD_LAGRANGIAN_BETA.eps
 INPUT ./CASE_SLD_LAGRANGIAN_BETA.eps
 INPUT ./CASE_SLD_LAGRANGIAN_BETA.eps
@@ -429,8 +421,7 @@ INPUT ./CASE_SLD_LAGRANGIAN_BETA.eps
 INPUT ./CASE_SLD_LAGRANGIAN_BETA-eps-converted-to.pdf
 INPUT ./CASE_SLD_LAGRANGIAN_BETA-eps-converted-to.pdf
 INPUT ./CASE_SLD_LAGRANGIAN_BETA-eps-converted-to.pdf
-INPUT ./CASE_SLD_LAGRANGIAN_BETA-eps-converted-to.pdf
-INPUT ./CASE_SLD_LAGRANGIAN_BETA-eps-converted-to.pdf
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
 INPUT ./CASE_04_ICE_SHAPE_01_LAYER.eps
 INPUT ./CASE_04_ICE_SHAPE_01_LAYER.eps
 INPUT ./CASE_04_ICE_SHAPE_01_LAYER.eps
@@ -439,8 +430,6 @@ INPUT ./CASE_04_ICE_SHAPE_01_LAYER.eps
 INPUT ./CASE_04_ICE_SHAPE_01_LAYER-eps-converted-to.pdf
 INPUT ./CASE_04_ICE_SHAPE_01_LAYER-eps-converted-to.pdf
 INPUT ./CASE_04_ICE_SHAPE_01_LAYER.eps
-INPUT ./CASE_04_ICE_SHAPE_01_LAYER-eps-converted-to.pdf
-INPUT ./CASE_04_ICE_SHAPE_01_LAYER-eps-converted-to.pdf
 INPUT ./CASE_04_ICE_SHAPE_01_LAYER-eps-converted-to.pdf
 INPUT ./CASE_04_ICE_SHAPE_01_LAYER-eps-converted-to.pdf
 INPUT ./CASE_04_ICE_SHAPE_01_LAYER-eps-converted-to.pdf
@@ -452,8 +441,6 @@ INPUT ./CASE_04_ICE_SHAPE_05_LAYER.eps
 INPUT ./CASE_04_ICE_SHAPE_05_LAYER-eps-converted-to.pdf
 INPUT ./CASE_04_ICE_SHAPE_05_LAYER-eps-converted-to.pdf
 INPUT ./CASE_04_ICE_SHAPE_05_LAYER.eps
-INPUT ./CASE_04_ICE_SHAPE_05_LAYER-eps-converted-to.pdf
-INPUT ./CASE_04_ICE_SHAPE_05_LAYER-eps-converted-to.pdf
 INPUT ./CASE_04_ICE_SHAPE_05_LAYER-eps-converted-to.pdf
 INPUT ./CASE_04_ICE_SHAPE_05_LAYER-eps-converted-to.pdf
 INPUT ./CASE_04_ICE_SHAPE_05_LAYER-eps-converted-to.pdf
@@ -462,6 +449,8 @@ INPUT ./sae_paper.bbl
 INPUT sae_paper.bbl
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/vf/adobe/times/ptmri7t.vf
